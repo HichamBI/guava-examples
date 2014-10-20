@@ -18,7 +18,7 @@ import java.util.List;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-public class GuavaTest {
+public class MultiMapsTest {
 
     @Test
     public void test_arrayList_multiMap() {
